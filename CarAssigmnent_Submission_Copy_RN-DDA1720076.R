@@ -1,9 +1,9 @@
-#Sankalp Pathak Student Roll Number :DDA1720076 
+#Sankalp Pathak 
 #Predicctve Analytics - Car Assignment
 #
 #Selecting working directory
 
-setwd("F:/BA/IIIT Upgrad/Predictive Analytics/CarAssignment")
+setwd("//CarAssignment")
 # Loading required libraries
 library(dplyr)
 library(tidyr)
@@ -446,6 +446,6 @@ rsquared8
 # Cylinder number shall be different from 4 or 6. 
 # Front engine is very high on negative effect on pricing - hence front engine is not a good design 
 # for US market to get high price. 
-# Also Geely Auto  has to cope up with typical US consumer perception about Europian cars being priecy. 
-#So in general to get higher price, Geely Auto  need to work on Brand building, 
+# Also Geely AutoÂ  has to cope up with typical US consumer perception about Europian cars being priecy. 
+#So in general to get higher price, Geely AutoÂ  need to work on Brand building, 
 # large cars with bigger engine, cylinder numebr more than 4 /6 and downpaly std aspiration. 
