@@ -4,6 +4,8 @@ Chinease car company is planning to enter in the USA market. It has collected da
 I have created Linear regaression based model to predict car price. The model decipts the important attribute that contribute to the 
 perception US consumers have towards car pricing. 
 https://www.youtube.com/watch?v=E7BkqNlEnMQ
+
+
 DATA DICTONARY						
 						
 1	Car_ID			Unique id of each observation (Interger)		
